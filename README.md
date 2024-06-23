@@ -1,5 +1,5 @@
-# TacLeg
-TacLeg: A Novel Visuotactile Device for  Below-Knee Leg Prostheses
+# Open-Source TacLeg
+(TacLeg: A Novel Visuotactile Device for  Below-Knee Leg Prostheses)
 
 # Contact for support: 
 
