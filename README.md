@@ -1,4 +1,4 @@
-# Open-Source Design of TacLeg 
+# Open-Source 3-D Design of TacLeg 
 (TacLeg: A Novel Visuotactile Device for  Below-Knee Leg Prostheses)
 
 # Contact for support: 
