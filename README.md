@@ -14,7 +14,7 @@ Email: duonglacbk@gmail.com or lac.duongvan@hust.edu.vn
 
 [1] L. V. Duong, "TacLeg: A Novel Visuotactile Device for Below-Knee Leg Prostheses," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3438038.
 
-# The related papers with the same author:
+# The related papers:
 
 [2] L. V. Duong, "BiTac: A Soft Vision-Based Tactile Sensor With Bidirectional Force Perception for Robots," in IEEE Sensors Journal, vol. 23, no. 9, pp. 9158-9167, 1 May1, 2023, doi: 10.1109/JSEN.2023.3257645.
 
