@@ -4,7 +4,7 @@ The letter "TacLeg: A Novel Visuotactile Device for Below-Knee Leg Prostheses" w
 
 https://ieeexplore.ieee.org/document/10621588
 
-The source code is coming soon...
+The source code is coming soon
 # Feel free to contact me for support: 
 
 Dr. Duong Van Lac
