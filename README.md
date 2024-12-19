@@ -1,4 +1,4 @@
-# Open-Source 3-D Design of a Tactile Sensory Below-Knee Leg Prosthesis:
+# Open-Source 3-D Design of a Tactile Sensory Below-Knee Leg Prosthesis
 
 The letter "TacLeg: A Novel Visuotactile Device for Below-Knee Leg Prostheses" was published in IEEE Robotics and Automation Letters
 
